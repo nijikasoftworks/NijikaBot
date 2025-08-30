@@ -1,7 +1,7 @@
 # NijikaBot
 
 ## Overview
-NijikaBot is a C# application designed to manage development tools efficiently for Space Cat Games. It provides functionalities to add, retrieve, and remove tools from a centralized list.
+NijikaBot is a C# application designed to manage development tools efficiently for Space Cat Games. It provides functionalities to add, retrieve, use, debug and remove tools from a centralized list.
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
