@@ -26,4 +26,4 @@ NijikaBot is a C# application designed to manage development tools efficiently f
 Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
 
 ## License
-This project is licensed under the GNU GPL v3 License. See the LICENSE file for more details.
+This project is licensed under the GNU GPL v3 License.
