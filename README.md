@@ -1,8 +1,29 @@
 # NijikaBot
 
-## About
-NijikaBot is a C# CLI tool for working with Space Cat Games. It helps with development, deployment and maintenence.
+## Overview
+NijikaBot is a C# application designed to manage development tools efficiently for Space Cat Games. It provides functionalities to add, retrieve, and remove tools from a centralized list.
 
-## Development
+## Setup Instructions
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Restore the project dependencies using the command:
+   ```
+   dotnet restore
+   ```
+4. Build the project using:
+   ```
+   dotnet build
+   ```
 
-NijikaBot is under heavy development, so it will release shortly!
+## Usage Guidelines
+- To run the application, use the command:
+  ```
+  dotnet run
+  ```
+- The application will start and you can interact with the development tools through the provided services.
+
+## Contributing
+Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
+
+## License
+This project is licensed under the GNU GPL v3 License. See the LICENSE file for more details.
